@@ -14,7 +14,7 @@
     <a href="https://github.com/tsingune/recipeify"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/tsingune/recipeify">View Demo</a>
+    <a href="https://recipeify.herokuapp.com/">View Demo</a>
     ·
     <a href="https://github.com/tsingune/recipeify/issues">Report Bug</a>
     ·
@@ -107,4 +107,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## Contact
 
 [@Tushar Singune](https://twitter.com/tusharsingune) - tsingune007@gmail.com
- (https://github.com/tsingune/recipeify)
+ (https://recipeify.herokuapp.com/)
