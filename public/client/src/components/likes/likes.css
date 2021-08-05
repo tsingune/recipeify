@@ -1,0 +1,26 @@
+.likes {
+  position: relative;
+  align-self: stretch;
+  padding: 0 !important;
+}
+.likes__field {
+  cursor: pointer;
+  padding: 0 4rem;
+  display: flex;
+  align-items: center;
+  height: 100%;
+  transition: all 0.3s;
+}
+.likes__field:hover {
+  background-color: #f2efee;
+}
+.likes__panel:hover,
+.likes__field:hover + .likes__panel {
+  visibility: visible;
+  opacity: 1;
+}
+.likes__icon {
+  fill: #f59a83;
+  height: 3.75rem;
+  width: 3.75rem;
+}
