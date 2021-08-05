@@ -1,0 +1,87 @@
+.login-container {
+  display: flex;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+  font-family: roboto, arial, helvetica neue, sans-serif;
+}
+
+.login-container-content {
+  display: flex;
+  align-items: center;
+  max-width: 960px;
+  box-shadow: 0 8px 20px 0 rgb(0 0 0 / 15%);
+  border-radius: 10px;
+  overflow: hidden;
+  background: #fff;
+}
+
+.login-left-img-wrapper {
+  height: 100%;
+}
+
+.login-left-img {
+  height: 45rem;
+}
+
+.login-form-wrapper {
+  width: 100%;
+  min-width: 50rem;
+  padding: 0px 90px;
+}
+
+.login-heading {
+  font-size: 30px;
+  text-transform: uppercase;
+  font-weight: 700;
+  margin-bottom: 37px;
+}
+
+.login-input-box {
+  margin-bottom: 32px;
+  border-bottom: 1px solid #e5e5e5;
+}
+
+input {
+  outline: none;
+  margin: 0;
+  border: none;
+  box-shadow: none;
+  width: 100%;
+  font-size: 14px;
+  font-family: inherit;
+  padding: 9px 9px;
+  color: #666;
+  font-size: 16px;
+  font-weight: 500;
+}
+
+.login-btn-wrapper {
+  padding-top: 20px;
+}
+
+.login-btn {
+  outline: none;
+  background: 0 0;
+  border: none;
+  line-height: 40px;
+  display: inline-block;
+  padding: 0 25px;
+  cursor: pointer;
+  color: #fff;
+  font-family: roboto, arial, helvetica neue, sans-serif;
+  transition: all 0.4s ease;
+  font-size: 14px;
+  font-weight: 700;
+  background: #57b846;
+  border-radius: 3px;
+}
+
+.already-account {
+  margin-top: 3rem;
+  font-size: 1.5rem;
+}
+
+.already-account a {
+  color: #57b846;
+}
